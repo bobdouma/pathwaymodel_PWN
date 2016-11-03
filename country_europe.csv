@@ -1,0 +1,46 @@
+"","Abbreviation","ISO_3","Country","Declarant_number","Declarant_numberX","harbor_code"
+"1","AT","AUT","AUSTRIA","038","0038","AT"
+"2","BE","BEL","BELGIUM","017","0017","BE"
+"3","BG","BGR","BULGARIA","068","0068","BG"
+"4","CY","CYP","CYPRUS","600","0600","CY"
+"5","CZ","CZE","CZECH REPUBLIC","061","0061","CZ"
+"6","DE","DEU","GERMANY","004","0004","DE"
+"7","DK","DNK","DENMARK","008","0008","DK"
+"8","EE","EST","ESTONIA","053","0053","EE"
+"9","ES","ESP","SPAIN","011","0011","ES"
+"10","FI","FIN","FINLAND","032","0032","FI"
+"11","FR","FRA","FRANCE","001","0001","FR"
+"12","UK","GBR","UNITED KINGDOM","006","0006","UK"
+"13","EL","GRC","GREECE","009","0009","EL"
+"14","HU","HUN","HUNGARY","064","0064","HU"
+"15","IE","IRL","IRELAND","007","0007","IE"
+"16","IT","ITA","ITALY","005","0005","IT"
+"17","LT","LTU","LITHUANIA","055","0055","LT"
+"18","LU","LUX","LUXEMBOURG","018","0018","LU"
+"19","LV","LVA","LATVIA","054","0054","LV"
+"20","MT","MLT","MALTA","046","0046","MT"
+"21","NL","NLD","NETHERLANDS","003","0003","NL"
+"22","PL","POL","POLAND","060","0060","PL"
+"23","PT","PRT","PORTUGAL","010","0010","PT"
+"24","RO","ROU","ROMANIA","066","0066","RO"
+"25","SE","SWE","SWEDEN","030","0030","SE"
+"26","SI","SVN","SLOVENIA","091","0091","SI"
+"27","SK","SVK","SLOVAKIA","063","0063","SK"
+"28","NO","NOR","NORWAY","028","0028","NO"
+"29","HR","HRV","CROATIA","092","0092","HR"
+"30","IS","ISL","ICELAND","024","0024",NA
+"31","ME","MNE","MONTENEGRO","097","0097",NA
+"32","RS","SRB","SERBIA","098","0098",NA
+"33","TR","TUR","TURKEY","052","0052","TR"
+"34","CH","CHE","SWITZERLAND","039","0039",NA
+"35","LI","LIE","LIECHTENSTEIN","037","0037",NA
+"36","","","EU","EU","EU",NA
+"37","","","EU15","EU15","EU15",NA
+"38","","","EU25","EU25","EU25",NA
+"39","","","intra-EU","1010","1010",NA
+"40","","","extra-EU","1011","1011",NA
+"41","","","THAILAND","680","0680",NA
+"42","","","USA","400","0400",NA
+"43","ME","","SERBIA AND MONTENEGRO","094","0094",NA
+"44","MK","","MACEDONIA","096","0096",NA
+
